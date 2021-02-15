@@ -1,0 +1,29 @@
+{
+  "common": {
+    "signUp": "Register",
+    "login": "login",
+    "main": "Home",
+    "job": "Add Job"
+  },
+  "ads": {
+    "city": "City: ",
+    "description": "Description:",
+    "wage": "Wage: ",
+    "read": "Read more",
+    "cv": "If you want to send CV, you need to login!",
+    "cv1": "Send CV !",
+    "back": "Go back"
+  },
+  "register": {
+    "sign": "Registration",
+    "signUp": "Sign up"
+  },
+  "login": {
+    "signIn": "Login",
+    "sign" : "SIGN IN "
+  },
+  "adform": {
+    "submit": "Submit",
+    "add": "Add Job"
+  }
+}

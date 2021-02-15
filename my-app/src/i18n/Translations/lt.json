@@ -1,0 +1,29 @@
+{
+  "common": {
+    "signUp": "Registruotis",
+    "login": "Prisijungti",
+    "main": "Namai",
+    "job": "Prideti skelbima"
+  },
+  "ads": {
+    "city": "Miestas: ",
+    "description": "Aprasymas: ",
+    "wage": "Atlyginimas: ",
+    "read": "Skaityti daugiau",
+    "cv": "Norint issiusti CV reikia prisiregistruoti!",
+    "cv1": "Siusti CV !",
+    "back": "Grizti atgal"
+  },
+  "register": {
+    "sign": "Registracija",
+    "signUp": "Registruotis"
+  },
+  "login": {
+    "signIn": "Prisijungimo puslapis",
+    "sign" : "PRISIJUNGTI"
+  },
+  "adform": {
+    "submit": "Patvirtinti",
+    "add": "Prideti skelbima"
+  }
+}
